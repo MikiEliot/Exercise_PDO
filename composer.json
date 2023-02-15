@@ -1,0 +1,13 @@
+{
+    "name": "kercode07/pdo",
+    "description": "TP PDO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kercode07\\Pdo\\": "app/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
